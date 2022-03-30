@@ -1,5 +1,5 @@
 # Drum-Kit
-![Project Image](drumkit.png)
+![Project Image](Drumkit.png)
 
 ### Table of Contents
 
